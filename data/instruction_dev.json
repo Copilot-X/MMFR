@@ -1,0 +1,1640 @@
+[
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the yellow arrow in the ESPiRiT, PnP-GD\u03b8, BC-PnP, and Ground-truth panels indicate?\n##options:\nA. A) A region of high signal intensity in the MRI\nB. B) An artifact in the reconstructed image\nC. C) The focal point of the MRI scan\nD. D) A measurement error in the RMSE scale\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/2305.12672_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the average similarity task score for the SVD method with a dimensionality of 500 across both replicates?\n##options:\nA. 0.4499\nB. 0.7010\nC. 0.69515\nD. 0.3778\n",
+        "response": "C",
+        "images": [
+            "test_images/eba672cd-0f72-479f-ae90-2923cc84c6ff.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In the upper right graph, what can be inferred about the relationship between \\( \\ln(Q-1)^2/a^2 \\) and \\( \\omega/a^2 \\) for the highlighted pink curve?\n##options:\nA. It is a linear relationship with a positive slope.\nB. It is a linear relationship with a negative slope.\nC. It is an exponential relationship with decay.\nD. It is a quadratic relationship.",
+        "response": "B",
+        "images": [
+            "arxiv/images/2305.19053_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the primary function demonstrated by the prosthetic arm in Figure A?\n##options:\nA. To provide a visual simulation of a human limb.\nB. To enable the user to perform complex tasks requiring fine motor skills.\nC. To serve as a static cosmetic replacement for the lost limb.\nD. To monitor the user's muscle movements through embedded sensors.\n# Figure B",
+        "response": "B",
+        "images": [
+            "arxiv/images/2106.08129_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: If the point (0, 0, \u03bb) signifies an initial condition, what does the point (\u03b1, \u03b2, \u03bb) in Figure (b) likely signify?\n##options:\nA. A) A transformed state under the same conditions\nB. B) An unrelated condition in a different context\nC. C) The final state of the system\nD. D) An error state outside of the expected range\n",
+        "response": "A) A transformed state under the same conditions",
+        "images": [
+            "arxiv/images/2303.16306_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which path most likely represents a process occurring at a constant temperature?\n##options:\nA. The path from \\( P_1 \\) to \\( P_5 \\).\nB. The curve passing through \\( P_c \\).\nC. The path from \\( P_4 \\) to \\( P_6 \\).\nD. The path from \\( P_5 \\) to \\( P_1 \\).\n-",
+        "response": "B",
+        "images": [
+            "arxiv/images/1708.08364_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the graph, what is the effect of \\( 1/\\Lambda \\) being positive as opposed to negative on the differential cross-section \\( d\\sigma/d\\Delta\\phi_{jj} \\) for \\( H \\rightarrow \\tau \\tau \\)?\n##options:\nA. Positive \\( 1/\\Lambda \\) results in a higher peak cross-section than negative \\( 1/\\Lambda \\).\nB. Positive \\( 1/\\Lambda \\) does not affect the cross-section for \\( H \\rightarrow \\tau \\tau \\).\nC. Positive \\( 1/\\Lambda \\) leads to a lower initial cross-section but higher values at larger \\( \\Delta\\phi_{jj} \\) compared to negative \\( 1/\\Lambda \\).\nD. Positive \\( 1/\\Lambda \\) causes the cross-section to be zero.",
+        "response": "C",
+        "images": [
+            "arxiv/images/hep-ph0105325_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the trends observed in the real hardware data, which statement is correct regarding the state '001' from t0 to t3?\n##options:\nA. The probability of '001' increases at every time step.\nB. The probability of '001' decreases at every time step.\nC. The probability of '001' remains constant throughout the time steps.\nD. The probability of '001' decreases initially but then increases at t3.",
+        "response": "D",
+        "images": [
+            "arxiv/images/2210.06172_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the function of the component labeled with number 6 at the bottom of the figure?\n##options:\nA. To collect fluid output\nB. To support the structure\nC. To provide insulation\nD. To regulate temperature",
+        "response": "A",
+        "images": [
+            "arxiv/images/2303.13963_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What can be inferred about the relationship between \\(\\phi\\) and \\(V\\) in the range from \\(10\\) to \\(10^{21}\\)?\n##options:\nA. \\(\\phi\\) and \\(V\\) are directly proportional.\nB. \\(\\phi\\) and \\(V\\) are inversely proportional.\nC. \\(\\phi\\) increases as \\(V\\) decreases.\nD. There is no clear relationship between \\(\\phi\\) and \\(V\\) in this range.",
+        "response": "B",
+        "images": [
+            "arxiv/images/1605.02648_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In the context of this figure, what do the different colored balls within the triangle likely symbolize?\n##options:\nA. Different clustering groups within a dataset.\nB. Variations of data points after normalization.\nC. Unique neural network layers.\nD. Categories of inputs to the neural network.",
+        "response": "B",
+        "images": [
+            "arxiv/images/1903.03793_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the \"LJPA\" block in panel (a) of the figure represent?\n##options:\nA. An amplifier used to enhance the signal strength.\nB. A filter used to clean the signal from noise.\nC. A transducer used to convert energy from one form to another.\nD. A sensor used to detect the quantum state of the transmon qubit.",
+        "response": "A",
+        "images": [
+            "arxiv/images/1403.4992_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In the given diagram, what does the phase manifold represent?\n##options:\nA. The variance of the input states over time.\nB. The evolution of the state representation in a lower-dimensional space.\nC. The prediction of the next state st+1.\nD. The output of the gating network.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/2306.11970_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which dataset experienced the highest compression ratio using the 'Repair +sHuff' method?\n##options:\nA. CR.\nB. ZIFF.\nC. EINS\nD. FT91.\n",
+        "response": "A",
+        "images": [
+            "test_images/1d184160-e8fc-42a1-8fcf-954ec4285901.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the gradient \\(\\nabla L\\) at \\(x_n\\) signify in the context of this figure?\n##options:\nA. It indicates the direction of the steepest ascent in loss.\nB. It represents the boundary of the feasible set \\(I\\).\nC. It shows the direction towards the optimal point \\(x^*\\).\nD. It denotes the direction of the steepest descent in loss.",
+        "response": "D",
+        "images": [
+            "arxiv/images/2109.15048_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the purpose of the 'Projection' step in the process diagram?\n##options:\nA. To classify the extracted features into semantic categories.\nB. To convert the soundtrack into low-level features.\nC. To reduce the dimensionality of the features for classification.\nD. To match the urban sounds with the corresponding Flickr video.\n-",
+        "response": "C. To reduce the dimensionality of the features for classification.",
+        "images": [
+            "arxiv/images/1607.03257_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which energy range shows the most variation in the time interval \u0394t in the graph?\n##options:\nA. A) 10 - 100 GeV\nB. B) 100 - 1000 GeV\nC. C) 1000 - 10000 GeV\nD. D) 10000 - 100000 GeV\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1707.02413_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the symbol '\u27e8w_i,\u27e9 \u03c6_i(\u00b7)' represent in the conventional view of neural network layers?\n##options:\nA. The activation function applied in the i-th layer.\nB. The weight and feature map interaction at the i-th layer.\nC. The bias term added to the i-th layer.\nD. The input vector fed into the i-th layer.",
+        "response": "B",
+        "images": [
+            "arxiv/images/2005.05541_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which U/6J ratio range is primarily covered by the parameter space highlighted in the figure?\n##options:\nA. A) 0 to 2\nB. B) 2 to 4\nC. C) 3 to 5\nD. D) 4 to 6\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/0905.2963_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the parameter 'm' most likely represent in the figure?\n##options:\nA. The magnitude of the circular source\nB. The number of spurious images\nC. The mode number affecting the shape of the source\nD. The frequency of the wave emitted by the source",
+        "response": "C",
+        "images": [
+            "arxiv/images/1603.04652_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the trend of the data points suggest about the relationship between the x-axis variable and the y-axis variable?\n##options:\nA. The relationship is directly proportional.\nB. The relationship is inversely proportional.\nC. The relationship is constant and does not change with the x-axis variable.\nD. The relationship is non-linear with a peak at the beginning.",
+        "response": "B",
+        "images": [
+            "arxiv/images/2301.00034_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the residuals plot below the main graph, how well does the theoretical model (red line) fit the observed data (blue points)?\n##options:\nA. The fit is poor, with residuals showing a clear pattern.\nB. The fit is good, with residuals randomly distributed around zero.\nC. The fit is excellent, with no residuals.\nD. The residuals suggest the model overestimates the data.",
+        "response": "B",
+        "images": [
+            "arxiv/images/0910.2675_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What trend is observed for the variable R as k increases from 4.0 to 5.5 d^-1?\n##options:\nA. R increases then decreases\nB. R decreases then increases\nC. R only increases\nD. R only decreases",
+        "response": "B",
+        "images": [
+            "arxiv/images/patt-sol9303001_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which GAN model appears to achieve a clearer facial expression transfer based on the images provided?\n##options:\nA. A) Reenact-GAN\nB. B) AIP-GAN\nC. C) Both perform equally well.\nD. D) It's not possible to determine from the provided images.\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/2005.00499_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What can be inferred about the symmetry of the distribution of \\( n_y \\) values?\n##options:\nA. The distribution is perfectly symmetrical around the peak.\nB. The distribution is skewed to the right.\nC. The distribution is skewed to the left.\nD. The symmetry of the distribution cannot be determined from this histogram.",
+        "response": "D",
+        "images": [
+            "arxiv/images/1707.02413_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the approximate probability value 'p' used in the simulation represented by the histogram?\n##options:\nA. A) p = 0.01\nB. B) p = 0.05\nC. C) p = 0.1\nD. D) p = 0.2\n",
+        "response": "B) p = 0.05",
+        "images": [
+            "arxiv/images/2110.03809_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, how does the value of \u03bc(a,k) in Model II compare to Model I at redshift z=1?\n##options:\nA. It is higher in Model II than in Model I.\nB. It is lower in Model II than in Model I.\nC. It remains constant between Model I and Model II.\nD. It cannot be determined from the information provided.\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/0809.3791_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What can be inferred about the nature of the physical phenomenon being plotted in subfigure (a)?\n##options:\nA. The phenomenon is chaotic with no discernible symmetry.\nB. The phenomenon exhibits bilateral symmetry along the vertical axis.\nC. The phenomenon is periodic across the horizontal axis.\nD. The phenomenon shows random distribution of maxima and minima.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1702.08737_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the primary purpose of the colored dot plots in the right section of the image?\n##options:\nA. A) They represent different species observed at each point.\nB. B) They denote the frequency of a particular event over time.\nC. C) They show the movement patterns of tagged animals.\nD. D) They indicate the varying chemical composition of soil samples.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2108.06421_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the trend of the curves, how does the fractional conversion 'y' change with increasing time 't'?\n##options:\nA. A) It decreases exponentially.\nB. B) It increases at a decreasing rate.\nC. C) It remains constant over time.\nD. D) It increases linearly.\n",
+        "response": "B) It increases at a decreasing rate.",
+        "images": [
+            "arxiv/images/q-bio0608009_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: According to the figures, which merger scenario shows a higher number of modes analyzed?\n##options:\nA. Head-on mergers\nB. Quasicircular mergers, Target mode: 220 x 220\nC. Quasicircular mergers, Target mode: 220 x 330\nD. The number of modes analyzed is not specified",
+        "response": "B",
+        "images": [
+            "arxiv/images/2208.07374_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the information provided in the figure, which color of visible light is not directly used in the experimental setup?\n##options:\nA. Blue\nB. Green\nC. Red\nD. Violet\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1612.04910_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the most likely purpose of the image progression shown in row (a)?\n##options:\nA. A) Demonstrating the effect of a filter on image clarity.\nB. B) Showing the stages of development of a biological organism.\nC. C) Illustrating the increase in magnification of a microscopic structure.\nD. D) Comparing different lighting conditions on the visibility of a sample.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2010.10207_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In the top left plot, what does the \"prediction\" error bar represent?\n##options:\nA. A) The uncertainty in the experimental data\nB. B) The range of expected values from the equation (Eq. 9)\nC. C) The confidence interval for the observed data\nD. D) The error in the prediction as compared to the observed data\n",
+        "response": "D) The error in the prediction as compared to the observed data",
+        "images": [
+            "arxiv/images/2208.05384_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which strategy consistently shows the lowest cumulative health effect (QALY averted) across different SD_max values?\n##options:\nA. A) RL-WTP50K\nB. B) RL-WTP100K\nC. C) FIXED\nD. D) NO SD\n",
+        "response": "D",
+        "images": [
+            "arxiv/images/2205.08996_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the geometric representation of the grid in the background?\n##options:\nA. A coordinate system for vector space.\nB. A topographical map indicating elevation.\nC. A checkerboard pattern with no mathematical significance.\nD. A representation of gravitational waves.",
+        "response": "A",
+        "images": [
+            "arxiv/images/1712.06600_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What behavior is indicated by the curve labeled with 'Li' as \\(\\zeta\\) approaches 0.8?\n##options:\nA. It shows an exponential decrease.\nB. It remains constant.\nC. It shows an exponential increase.\nD. It indicates a peak before approaching 0.8.",
+        "response": "B",
+        "images": [
+            "arxiv/images/nucl-th0408057_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What can be inferred from panel D regarding the relationship between input standard deviation and the spike rate difference?\n##options:\nA. As the input standard deviation increases, the spike rate difference between BS and eP decreases.\nB. The input standard deviation has no impact on the spike rate difference between BS and eP.\nC. There is a direct proportionality between input standard deviation and spike rate difference for BS - eP.\nD. A high input standard deviation is associated with a lower spike rate difference for BS - P.",
+        "response": "A",
+        "images": [
+            "arxiv/images/1603.04881_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the 'p' labeled on the vertical lines in the graph indicate?\n##options:\nA. A) The peak amplitude of the signal\nB. B) The probability of a certain event occurring\nC. C) The power level of the signal\nD. D) The pivot point of the signal change\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2303.07946_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the state change in panel B from (i) to (iv) suggest about the drone's design?\n##options:\nA. It indicates a temperature regulation mechanism.\nB. It suggests a pressure-sensitive material is integrated into the drone.\nC. It implies a color-changing feature for camouflage.\nD. It demonstrates the drone's ability to switch between different flight modes.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/2204.13155_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the Representation Discriminant Function, what is the role of the matrix \\( \\Sigma \\) in defining the decision boundary?\n##options:\nA. \\( \\Sigma \\) is the covariance matrix that shapes the elliptical decision boundary.\nB. \\( \\Sigma \\) represents the singular value decomposition used for dimensionality reduction.\nC. It is the scaling factor for the normal distribution of each class.\nD. \\( \\Sigma \\) is the identity matrix that simplifies the decision boundary to a circular shape.\n## For the Right Figure (Representation Discriminant Function):",
+        "response": "A",
+        "images": [
+            "arxiv/images/1709.10433_4.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the contour map in the image primarily represent in a typical astronomical study?\n##options:\nA. Topographic features of a planetary surface\nB. Intensity of radio emissions from a celestial source\nC. Distribution of dark matter in a galaxy cluster\nD. Temperature variations in the cosmic microwave background\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/0711.4912_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does \\( r_{\\text{min}} \\) signify in the context of this figure?\n##options:\nA. The minimum value where two variables intersect.\nB. The smallest radius within which no variables are defined.\nC. The boundary condition for the experiment.\nD. The starting point for measuring variable distances.",
+        "response": "B",
+        "images": [
+            "arxiv/images/1810.02367_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: At week 18, what is the approximate difference in cumulative economic cost between the RL-WTP10K and FIXED strategies at SD_max = 70%?\n##options:\nA. A) $0.25 million\nB. B) $0.75 million\nC. C) $1.25 million\nD. D) $1.5 million\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/2205.08996_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which point corresponds to the maximum value of the function \\( \\Gamma \\) represented by the color gradient in figure b)?\n##options:\nA. A) Point (i)\nB. B) Point (iii)\nC. C) Point (v)\nD. D) Point (F)\n",
+        "response": "D",
+        "images": [
+            "arxiv/images/1903.10491_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the counteractive strategy graphs (e-h), what happens to the expected costs as the value of \u03c7 increases?\n##options:\nA. Expected costs decrease for all strategies as \u03c7 increases.\nB. Expected costs increase for the betweenness strategy as \u03c7 increases.\nC. Expected costs remain constant regardless of the change in \u03c7 value.\nD. Expected costs show a significant increase for the random strategy as \u03c7 increases.\n-",
+        "response": "B",
+        "images": [
+            "arxiv/images/1308.0652_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the Critical Summary graphs, during which regulation stage is the variation in critical cases the highest?\n##options:\nA. A) S0\nB. B) S1\nC. C) S2\nD. D) S3\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/2010.10560_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the peak in the graph most likely represent in the context of neutrino energy (\\( E_\\nu \\)) distribution?\n##options:\nA. A) The maximum intensity of a neutrino source.\nB. B) The threshold energy beyond which neutrino detection is not possible.\nC. C) The most probable neutrino energy emitted by a source.\nD. D) The energy at which neutrino interaction cross-section is the highest.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/hep-ph0312197_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the graph suggest about the relationship between the incoming dark matter incident angle and the velocity damping parameter, \\( K \\)?\n##options:\nA. \\( K \\) increases as the incident angle increases.\nB. \\( K \\) remains constant regardless of the incident angle.\nC. \\( K \\) decreases as the incident angle approaches \\( \\pi \\) radians.\nD. \\( K \\) shows a parabolic relationship with the incident angle.\n-",
+        "response": "C",
+        "images": [
+            "arxiv/images/2302.09115_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the significance of the different colors of users in the \"Normal Online RL Formulation\"?\n##options:\nA. They represent different strategies the agent can adopt.\nB. They indicate varying levels of interaction with the agent.\nC. They signify different groups of users within the same environment.\nD. They denote users belonging to different environments outside the scope of the depicted formulation.",
+        "response": "C",
+        "images": [
+            "arxiv/images/2205.12418_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: If the state vector |\u03c8\u27e9 is rotated to align with the |0\u27e9 state, what will be the outcome of a measurement in the computational basis?\n##options:\nA. The outcome will be a random selection between |0\u27e9 and |1\u27e9.\nB. The outcome will be |1\u27e9 with certainty.\nC. The qubit will collapse to the |0\u27e9 state with certainty.\nD. The state of the system will remain in superposition without collapse.",
+        "response": "C",
+        "images": [
+            "arxiv/images/2107.03313_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: How does the shape in figure b differ from the shape in figure a?\n##options:\nA. It has one additional side.\nB. It has the same number of sides but is arranged differently.\nC. It is smaller in area.\nD. It has been rotated 90 degrees.\n## Figure c",
+        "response": "B",
+        "images": [
+            "arxiv/images/1208.4299_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which curve represents the highest temperature setting in the experiment?\n##options:\nA. A) The solid line\nB. B) The dashed line\nC. C) The dotted line\nD. D) The dash-dot line\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/nucl-th0412082_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the function of the hexagon labeled 'CS' in the figure?\n##options:\nA. It represents a ground user that is being covered by UAV 1.\nB. It represents a control station where UAVs start or end their trajectories.\nC. It represents an area that is outside the coverage of both UAVs.\nD. It indicates the central hub for all ground users.",
+        "response": "B",
+        "images": [
+            "arxiv/images/1912.12802_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which regularization method combined with pruning resulted in the lowest test loss?\n##options:\nA. $L_1$ regularization with pruning resulted in the lowest test loss of $0.192$\nB. $L_1$ regularization without pruning resulted in the lowest test loss of $0.192$.\nC. No regularization with pruning resulted in the lowest test loss of $0.192$.\nD. $L_2$ regularization with pruning resulted in the lowest test loss of $0.192$.\n",
+        "response": "A",
+        "images": [
+            "test_images/ee820784-5ce1-47d7-a611-0d708a44e0d7.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the purpose of showing different orientations of the same molecule (SER, ASN_trans, ASN_cis) in the figure?\n##options:\nA. To illustrate the possible molecular conformations\nB. To show the temperature effects on molecules\nC. To compare the molecular sizes\nD. To depict the chemical reaction process",
+        "response": "A",
+        "images": [
+            "arxiv/images/1411.2054_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the graph, how does the \u03c0/2 pulse separation time affect the probability ion in F=1?\n##options:\nA. It has a linear relationship with the probability ion in F=1\nB. It has no discernible relationship with the probability ion in F=1\nC. It has a periodic relationship with the probability ion in F=1\nD. It inversely affects the probability ion in F=1 after a certain threshold\n-",
+        "response": "C",
+        "images": [
+            "arxiv/images/1303.3798_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What pattern is observed in the departure rate as the number of moving individuals increases?\n##options:\nA. The departure rate increases exponentially.\nB. The departure rate decreases steadily.\nC. The departure rate initially decreases, then increases.\nD. The departure rate shows a random pattern without any clear trend.\n## Figure B",
+        "response": "C",
+        "images": [
+            "arxiv/images/1512.07307_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Why would a high-resolution SEM scan be divided into multiple tiles as shown in figure (a)?\n##options:\nA. To analyze different chemical elements separately.\nB. To manage file size and processing power for high-resolution images.\nC. To display the image at various magnifications simultaneously.\nD. To categorize the different phases of the material.",
+        "response": "B",
+        "images": [
+            "arxiv/images/2007.08631_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the percentage of studies that involve API-Based Code Search according to the table?\n##options:\nA. 51%\nB. 11%\nC. 14%\nD. 7%\n",
+        "response": "B",
+        "images": [
+            "test_images/451f40b3-ae30-4941-a2bf-eb24280f780d.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In the lower part of the figure, which geometrical shape is divided into five regions labeled I, II, III, IV, and V?\n##options:\nA. A rectangle.\nB. A triangle.\nC. A pentagon.\nD. A quadrilateral.",
+        "response": "B",
+        "images": [
+            "arxiv/images/chao-dyn9909010_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the trends shown in the graph, what can be inferred about the relationship between the variables on the x-axis and y-axis?\n##options:\nA. The variables are directly proportional.\nB. The variables are inversely proportional.\nC. There is no discernible relationship between the variables.\nD. The relationship is quadratic.",
+        "response": "B",
+        "images": [
+            "arxiv/images/2211.06353_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the output value for the program length of 26 when $n=12$?\n##options:\nA. 15\nB. 21\nC. 13\nD. 10\n",
+        "response": "A",
+        "images": [
+            "test_images/461fe3f2-8ef7-4529-b4b5-e52c8a908360.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the acronym AED stand for in the context of this figure?\n##options:\nA. Activity Excitability Diagram\nB. Antiepileptic Drug\nC. Automatic External Defibrillator\nD. Asynchronous Event Distribution\n-",
+        "response": "B",
+        "images": [
+            "arxiv/images/1904.13026_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: At which normalized trap depth does the 5.3 MHz frequency experience no light shift?\n##options:\nA. A) 50\nB. B) 100\nC. C) 150\nD. D) The 5.3 MHz frequency does not experience a point with no light shift.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1812.11815_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: At \\( N = 1 \\), which cooling strategy exhibits the least cooling power \\( J \\)?\n##options:\nA. Adiabatic\nB. Non-adiabatic\nC. CD 2-spin\nD. CD 1-spin",
+        "response": "A",
+        "images": [
+            "arxiv/images/2008.09327_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the trend line in the graph, what can be inferred if log(-S) were to increase to -0.5?\n##options:\nA. log(x^2) would increase significantly.\nB. log(x^2) would remain approximately the same.\nC. log(x^2) would decrease significantly.\nD. log(x^2) would decrease slightly.",
+        "response": "B",
+        "images": [
+            "arxiv/images/2001.01333_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, which statement accurately describes the relationship between the absolute spectral gap (\u03b4) and temperature (T) for the uniform model?\n##options:\nA. A) \u03b4 decreases as T increases beyond 10^-1.\nB. B) \u03b4 increases exponentially with T at all scales.\nC. C) \u03b4 remains constant with changes in T.\nD. D) \u03b4 increases as T increases up to 10^-1 and then decreases.\n",
+        "response": "A) \u03b4 decreases as T increases beyond 10^-1.",
+        "images": [
+            "arxiv/images/2203.12497_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the trends observed in the graph, what can be deduced about the nature of the relationship between 'a' and 'b' in the region of 'a' greater than 1.0?\n##options:\nA. The relationship between 'a' and 'b' is linear.\nB. The relationship between 'a' and 'b' is quadratic.\nC. The relationship between 'a' and 'b' is logarithmic.\nD. The relationship between 'a' and 'b' is exponential.",
+        "response": "D",
+        "images": [
+            "arxiv/images/1012.3256_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which trend does the dashed line represent in the graph?\n##options:\nA. Theoretical prediction for N = 2.\nB. Theoretical prediction for N = 4.\nC. Experimental data for N = 2.\nD. Experimental data for N = 4.",
+        "response": "B",
+        "images": [
+            "arxiv/images/2005.01478_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the figure suggest about the effective area of SMILE-I 10 cm prototype at 300 keV?\n##options:\nA. It is less than 0.01 cm\u00b2.\nB. It is approximately 0.1 cm\u00b2.\nC. It is approximately 1 cm\u00b2.\nD. It is greater than 10 cm\u00b2.",
+        "response": "A",
+        "images": [
+            "arxiv/images/1507.03850_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What might \"S\" in the figure represent in a philosophical or theoretical framework?\n##options:\nA. A specific scientific variable.\nB. A subject or a self.\nC. A solvent in a chemical reaction.\nD. A statistical sum.",
+        "response": "B",
+        "images": [
+            "arxiv/images/2011.01951_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the primary focus of the interactions depicted in the sequences (a) through (e)?\n##options:\nA. Human and robot are playing a game.\nB. Human is instructing the robot to follow a path.\nC. Human and robot are demonstrating a dance sequence.\nD. Robot is navigating to avoid collision with the human.",
+        "response": "D",
+        "images": [
+            "arxiv/images/1909.04694_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the graph likely represent in terms of the relationship between 'mu' and 'b0'?\n##options:\nA. A linear relationship where 'b0' increases as 'mu' increases.\nB. A hyperbolic relationship where 'b0' sharply decreases as 'mu' approaches a certain value.\nC. An exponential decay where 'b0' decreases as 'mu' increases.\nD. A quadratic relationship where 'b0' increases at a decreasing rate as 'mu' increases.",
+        "response": "B",
+        "images": [
+            "arxiv/images/0804.2903_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the blue color of the dots inside the green boundary signify in this graph?\n##options:\nA. A) They represent contaminant stars.\nB. B) They indicate the presence of RRL candidates within the defined GMM color boundary.\nC. C) They are stars with no significant relevance to RRL or contaminant stars.\nD. D) They indicate the stars that are outside the scope of this study.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1405.3537_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: According to the diagram, what is a condition for the detection phase in this dark matter detection model?\n##options:\nA. A) The mean free path must be less than the characteristic scale \\(a\\).\nB. B) The mean free path must be greater than the characteristic scale \\(a\\).\nC. C) The particles must undergo maximum scattering.\nD. D) The particles must exhibit a cascading behavior.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/2208.14474_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the comparison of graphs a) and b) suggest about the impact of relative momentum versus total momentum on the cross-section for pn pairs?\n##options:\nA. A) Total momentum has a greater impact on the cross-section than relative momentum.\nB. B) Relative momentum has a greater impact on the cross-section than total momentum.\nC. C) Both relative and total momentum have the same impact on the cross-section.\nD. D) Neither relative nor total momentum significantly impacts the cross-section.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1008.3100_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the approximate value of \\(\\tau\\) when \\(\\mu\\) is equal to 4?\n##options:\nA. 0.02\nB. 0.10\nC. 0.15\nD. 0.07",
+        "response": "A",
+        "images": [
+            "arxiv/images/1102.3096_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In Figure (c), what is the relationship between the scaled critical diameter (D_c^(1/6) / E_impact^(1/3)) and the impact energy (E_impact) for the different S% values?\n##options:\nA. It increases exponentially with E_impact.\nB. It decreases exponentially with E_impact.\nC. It shows a linear increase with E_impact.\nD. It remains largely unchanged with variations in E_impact.\n",
+        "response": "D",
+        "images": [
+            "arxiv/images/1510.08101_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does figure (A) represent in the series of diagrams?\n##options:\nA. A complete network graph.\nB. The initial state of a process.\nC. A hierarchical structure with three levels.\nD. The final state of a collapsing structure.",
+        "response": "B",
+        "images": [
+            "arxiv/images/2010.15110_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the graph, what happens to the number of currencies as attention becomes very large (tends to infinity)?\n##options:\nA. A) The number of currencies approaches a fixed value greater than zero.\nB. B) The number of currencies increases without bound.\nC. C) The number of currencies remains constant regardless of attention.\nD. D) The number of currencies approaches zero.\n",
+        "response": "D",
+        "images": [
+            "arxiv/images/1403.6378_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What activity is primarily depicted in this blurred image?\n##options:\nA. A busy marketplace\nB. A crowded beach\nC. An airport tarmac with planes\nD. A sports event with multiple athletes\n## For Figure (b):",
+        "response": "C",
+        "images": [
+            "arxiv/images/2108.10761_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the sequence of variables \\( C_L, C_{DD}, C_C, C_W, C_E \\) in figure (a) represent?\n##options:\nA. A process flow from concept to execution\nB. Stages of data analysis\nC. A categorization of variables in a research study\nD. The steps in a mathematical proof",
+        "response": "A",
+        "images": [
+            "arxiv/images/1112.4312_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the frequency range spanned by the data for each Nickel isotope?\n##options:\nA. Approximately -2 to 2 GHz\nB. Approximately -1 to 1 GHz\nC. Approximately -3 to 3 GHz\nD. Approximately -1.5 to 1.5 GHz\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/2210.01924_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which scatter plot shows a clearer distinction between endmembers represented by '1' and '2'?\n##options:\nA. Scatter plot 1-2\nB. Scatter plot 3-2\nC. Both show an equal distinction\nD. Neither shows any distinction\n-",
+        "response": "A",
+        "images": [
+            "arxiv/images/2105.10416_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the histograms, which state has the highest event count?\n##options:\nA. \u03a5(1S)\nB. \u03a5(2S)\nC. \u03a5(3S)\nD. \u03a5(4S)\n-",
+        "response": "A",
+        "images": [
+            "arxiv/images/hep-ex0607019_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What geometric principle does figure (a) primarily illustrate in the context of data points?\n##options:\nA. The principle of a convex hull in computational geometry.\nB. The concept of Euclidean distance in cluster analysis.\nC. The use of a Venn diagram for set intersection.\nD. The method of using anchor points to determine data separability.\n## Figure (b)",
+        "response": "D",
+        "images": [
+            "arxiv/images/1611.05010_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on Figure B, which relative group size range shows the greatest deviation between the empirical estimate and the simulated values for same-race ties?\n##options:\nA. A) 0.00 to 0.25\nB. B) 0.25 to 0.50\nC. C) 0.50 to 0.75\nD. D) 0.75 to 1.00\n",
+        "response": "D) 0.75 to 1.00",
+        "images": [
+            "arxiv/images/2304.04849_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the trend lines in figure (c), what can be inferred about the relationship between \\( g \\) and \\( \\omega_c \\) for \\( \\beta_1 \\) and \\( \\beta_2 \\)?\n##options:\nA. A) \\( g \\) decreases as \\( \\omega_c \\) increases for both \\( \\beta_1 \\) and \\( \\beta_2 \\)\nB. B) \\( g \\) increases as \\( \\omega_c \\) increases for both \\( \\beta_1 \\) and \\( \\beta_2 \\)\nC. C) \\( g \\) is constant as \\( \\omega_c \\) increases for both \\( \\beta_1 \\) and \\( \\beta_2 \\)\nD. D) \\( g \\) increases as \\( \\omega_c \\) increases for \\( \\beta_1 \\) but decreases for \\( \\beta_2 \\)\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/2212.13751_4.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which state exhibits the least change in energy in figure (e)?\n##options:\nA. State |1>\nB. State |2>\nC. State |3>\nD. All states change energy equally.\n-",
+        "response": "A",
+        "images": [
+            "arxiv/images/1904.02208_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the high-finesse slope graph (b), what can be concluded about the detector's impact on the membrane temperature?\n##options:\nA. The detector only has a temporary impact on the membrane temperature.\nB. The detector raises the membrane temperature to match room temperature.\nC. The detector causes fluctuations in the membrane temperature.\nD. The detector has a stabilizing effect on the membrane temperature.",
+        "response": "A",
+        "images": [
+            "arxiv/images/1407.6820_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the inset image within the graph, what kind of physical phenomena could the graph be representing?\n##options:\nA. The diffusion of particles in a fluid.\nB. The distribution of stars in a galaxy.\nC. The porosity of a material.\nD. The phase separation in a binary liquid mixture.",
+        "response": "D",
+        "images": [
+            "arxiv/images/1003.0335_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the diagram, which of the following best describes the relationship between Ix,t and Ry,t?\n##options:\nA. Ix,t leads directly to Ry,t on path Q\nB. Ry,t is a result of the convergence of Ix,t and Iy,t\nC. Ix,t and Ry,t are independent variables on path P\nD. Ry,t is a precursor to Ix,t on path Q",
+        "response": "B",
+        "images": [
+            "arxiv/images/1110.1388_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What can be inferred about the relationship between \\( k_{in} \\) and \\( k_{out} \\) for the dataset represented by the red circles compared to the black squares?\n##options:\nA. The dataset represented by the red circles has a stronger \\( k_{in} \\) to \\( k_{out} \\) relationship than the black squares.\nB. The dataset represented by the red circles has a weaker \\( k_{in} \\) to \\( k_{out} \\) relationship than the black squares.\nC. The dataset represented by the red circles shows no \\( k_{in} \\) to \\( k_{out} \\) relationship compared to the black squares.\nD. The dataset represented by the red circles and the black squares have identical \\( k_{in} \\) to \\( k_{out} \\) relationships.\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/1205.2583_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: For the family \"crypto-des,\" what is the modularity $Q^{part}_{10^3}$?\n##options:\nA. 0.361\nB. 0.361\nC. 0.3615\nD. 0.346\n",
+        "response": "A",
+        "images": [
+            "test_images/a776c325-df8c-46c4-b3fb-ea6224445ba2.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which parton type has the highest cross-section for the given momentum fraction range in pPb collisions according to the graph?\n##options:\nA. Up quarks (u)\nB. Down quarks (d)\nC. Strange quarks (s)\nD. Gluons (g)",
+        "response": "D",
+        "images": [
+            "arxiv/images/1612.05741_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What can be inferred about the trajectory marked with blue lines and green squares in this figure?\n##options:\nA. It represents a path that loops back on itself.\nB. It shows a trajectory that moves steadily in one direction.\nC. It is a representation of an oscillating movement.\nD. It depicts a path with a single direction change.\n-",
+        "response": "A",
+        "images": [
+            "arxiv/images/2205.14085_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: How many event structure classes have an $\\fL$ in their corresponding notations column?\n##options:\nA. Three\nB. One\nC. Two\nD. Four\n",
+        "response": "B",
+        "images": [
+            "test_images/21b12292-843b-4a5e-be44-f90cf3f3af7e.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the reaction rate plot, what trend is shown when all contributing transitions are considered?\n##options:\nA. The reaction rate decreases as temperature increases.\nB. The reaction rate increases exponentially with temperature.\nC. The reaction rate increases with temperature up to a point and then saturates.\nD. The reaction rate remains constant regardless of temperature.",
+        "response": "C",
+        "images": [
+            "arxiv/images/2102.06010_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: For which task does the PG-Vector-NMN (strong) model maintain consistent accuracy before and after finetuning?\n##options:\nA. and_mat_spa\nB. or_mat\nC. compare_mat\nD. embed_mat_spa",
+        "response": "C",
+        "images": [
+            "arxiv/images/1912.05783_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the vector orientation in the image, which aerodynamic force is not directly represented?\n##options:\nA. Thrust\nB. Lift\nC. Drag\nD. Weight\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/1701.01166_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the asymmetry in the orbit in figure (f) suggest about the angular momentum (\\( h \\))?\n##options:\nA. \\( h \\) is much less than \\( \\lambda\\sqrt{2\\mu} \\)\nB. \\( h \\) is slightly less than \\( \\lambda\\sqrt{2\\mu} \\)\nC. \\( h \\) is equal to \\( \\lambda\\sqrt{2\\mu} \\)\nD. \\( h \\) is much greater than \\( \\lambda\\sqrt{2\\mu} \\)",
+        "response": "D",
+        "images": [
+            "arxiv/images/1506.03590_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the varying density of lines in the right portion of Figure a indicate about the system it represents?\n##options:\nA. The system is approaching a steady state.\nB. The system is experiencing decreasing oscillations over time.\nC. The system is undergoing increasing frequency oscillations.\nD. The amplitude of the system's oscillations is constant.",
+        "response": "C",
+        "images": [
+            "arxiv/images/chao-dyn9912008_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, which statement is true regarding the phase shift trends observed?\n##options:\nA. All states start with the same phase shift value at p = 0 MeV/c.\nB. The 2D 5/2 state experiences the largest overall change in phase shift.\nC. The 2P 1/2 and 2P 3/2 states show similar trends with increasing momentum.\nD. The phase shifts for all states tend to zero as momentum approaches 300 MeV/c.",
+        "response": "A",
+        "images": [
+            "arxiv/images/1509.08151_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the purple arrow from \\( E_3 \\) to \\( I_3 \\) with the label 'GCG' indicate in this pathway diagram?\n##options:\nA. The inhibition of \\( I_3 \\) by \\( E_3 \\)\nB. The activation of \\( I_3 \\) by \\( E_3 \\)\nC. The physical movement of \\( GCG \\) from \\( E_3 \\) to \\( I_3 \\)\nD. The transformation of \\( E_3 \\) into \\( I_3 \\)",
+        "response": "B",
+        "images": [
+            "arxiv/images/1711.09180_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What activity is being sequentially depicted in the figure?\n##options:\nA. A basketball game\nB. A volleyball match\nC. A tennis match\nD. A dance rehearsal",
+        "response": "A",
+        "images": [
+            "arxiv/images/1703.02716_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the parameter \u03c4 represent in the graph?\n##options:\nA. The rate constant for the exponential decay\nB. The time variable along the exponential decay curves\nC. The amplitude of the exponential functions\nD. The half-life of the decaying quantities\n-",
+        "response": "B",
+        "images": [
+            "arxiv/images/2005.07337_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the diagram, what can be inferred about the computational complexity of the depicted process?\n##options:\nA. It is linear, as there are as many steps as there are elements.\nB. It is logarithmic, as the process seems to reduce in complexity at each step.\nC. It is quadratic, as each element appears to interact with every other element.\nD. It is log-linear, as it combines both linear and logarithmic characteristics.",
+        "response": "D",
+        "images": [
+            "arxiv/images/2110.11712_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the peak of the probability distribution curve in graph (a) indicate about the relationship between the initial recoil and damage direction at various keV levels?\n##options:\nA. Higher keV levels result in a smaller angle between initial recoil and damage direction.\nB. Lower keV levels result in a larger angle between initial recoil and damage direction.\nC. The peak represents the most probable angle between initial recoil and damage direction, irrespective of the keV level.\nD. The keV levels have no impact on the angle between initial recoil and damage direction.",
+        "response": "A",
+        "images": [
+            "arxiv/images/2203.06037_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the graphs in parts (c) and (d), what is the relationship between \\( \\Delta T_{01} \\) and \\( \\Delta \\alpha_{QP} \\)?\n##options:\nA. \\( \\Delta T_{01} \\) and \\( \\Delta \\alpha_{QP} \\) are inversely proportional.\nB. \\( \\Delta T_{01} \\) and \\( \\Delta \\alpha_{QP} \\) have no clear relationship.\nC. \\( \\Delta T_{01} \\) and \\( \\Delta \\alpha_{QP} \\) peak simultaneously.\nD. \\( \\Delta T_{01} \\) is constant while \\( \\Delta \\alpha_{QP} \\) varies.",
+        "response": "C",
+        "images": [
+            "arxiv/images/2012.06029_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which multi-objective optimization framework that is purely written in Python has visualization capabilities but does not focus on decision making?\n##options:\nA. Platypus.\nB. jMetalPy\nC. PyGMO.\nD. DEAP.\n",
+        "response": "B",
+        "images": [
+            "test_images/8da0601f-0067-48aa-a0d4-8bac386b3421.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, which quadrant shows a convergence of states towards a central point?\n##options:\nA. A) Top left\nB. B) Top right\nC. C) Bottom left\nD. D) Bottom right\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2106.05034_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the last part of the sequence illustrate in the figure?\n##options:\nA. A neural network architecture for time series prediction.\nB. A Markov chain process for different states in the time series.\nC. A clustering algorithm applied to the segmented time series data.\nD. A probabilistic model showing transitions between different states of the time series.",
+        "response": "D",
+        "images": [
+            "arxiv/images/1911.01325_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the graph, how does the electron yield from minimum bias nuclear collisions compare to centrality binned collisions at 400 N_coll?\n##options:\nA. The yield from minimum bias is higher than centrality binned collisions.\nB. The yield from minimum bias is lower than centrality binned collisions.\nC. The yield from minimum bias is equal to centrality binned collisions.\nD. There is no data available for minimum bias collisions at 400 N_coll.",
+        "response": "A",
+        "images": [
+            "arxiv/images/nucl-ex0409028_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the shaded area in the diagrams primarily represent?\n##options:\nA. A) Variability in data collection methods.\nB. B) The standard deviation of vehicle speeds.\nC. C) Regions where traffic flow changes from free to synchronized and synchronized to free flow.\nD. D) Areas unaffected by traffic congestion.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/1511.04912_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: At approximately what temperature does the theory diverge from the experimental results?\n##options:\nA. 0K\nB. Tc\nC. 150-200K\nD. \u03c7_qp\n-",
+        "response": "B",
+        "images": [
+            "arxiv/images/cond-mat9505070_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the trend shown by the solid and dashed lines in Figure b, which prediction can be made about the system's behavior if \\( \\lambda \\) is decreased from a high value?\n##options:\nA. The system will maintain a single stable state.\nB. The system will transition to a state of higher energy.\nC. The system will likely exhibit a discontinuous jump to another state.\nD. The system will become less predictable and more random.",
+        "response": "C",
+        "images": [
+            "arxiv/images/chao-dyn9912008_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What type of lattice structure is shown in the top-left panel (a) of the figure?\n##options:\nA. Body-centered cubic\nB. Hexagonal close-packed\nC. Face-centered cubic\nD. Simple cubic",
+        "response": "B",
+        "images": [
+            "arxiv/images/1901.00610_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the question mark at the high-density end of the quark matter line likely represent in the phase diagram?\n##options:\nA. A confirmed phase transition point.\nB. An uncertain region where the properties of quark matter are not well understood.\nC. The point at which nuclear matter becomes stable.\nD. The location of absolute zero temperature.",
+        "response": "B",
+        "images": [
+            "arxiv/images/2209.10980_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figures, which statement best describes the preprocessing step's effect on data points?\n##options:\nA. A) It converts all data points into true edges.\nB. B) It removes all data points from the radial pattern.\nC. C) It segregates data points into true and fake edges.\nD. D) It increases the number of data points at the radial pattern's extremities.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2109.12636_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What percentage of responses rated the strategy of \"One Dedicated Scrum Master\" as having high effectiveness?\n##options:\nA. 9.1%\nB. 21.6%\nC. 29.2%\nD. 69.3%\n",
+        "response": "D",
+        "images": [
+            "test_images/1e5ecbff-575d-49fe-aa05-116b9c844870.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the shaded area above the \u03b1_c data points signify?\n##options:\nA. A) The region where the material is in a uniform state\nB. B) The proportion of the material that is above the critical temperature\nC. C) The domain phase of the material\nD. D) The error margin in the \u03b1_c measurements\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2111.07259_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does \u0394\u00b2 = 0 represent in the graph of H(x,\u03be,\u0394\u00b2)?\n##options:\nA. The solid line that shows the maximum amplitude of the graph.\nB. The dashed line that shows an intermediate state of the system.\nC. The peak of the graph where the function value is highest.\nD. It is not represented in the graph.",
+        "response": "B",
+        "images": [
+            "arxiv/images/0711.2625_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the red scatter plot in the graph represent?\n##options:\nA. The predicted spread for a new option pricing model.\nB. The actual recorded spread of stock prices over time.\nC. The error in prediction of the recursive spread model.\nD. The distribution of stock prices at a fixed point in time.",
+        "response": "C",
+        "images": [
+            "arxiv/images/1905.02650_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In Figure C, what is the correlation coefficient (r^2) value between the ground truth percent tumor cells and the predicted percent tumor area?\n##options:\nA. 1.00\nB. 1.10\nC. 0.95\nD. 0.90",
+        "response": "B",
+        "images": [
+            "arxiv/images/2106.07806_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, how does the non-robust estimate trajectory compare to the robust estimate trajectory as it approaches the source?\n##options:\nA. It remains parallel to the robust estimate trajectory.\nB. It diverges farther away from the source.\nC. It converges towards the source more closely than the robust estimates.\nD. It crosses over the robust estimate trajectory.",
+        "response": "C",
+        "images": [
+            "arxiv/images/1912.04630_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the purpose of the feedback circuit in the diagram?\n##options:\nA. To provide a constant voltage source for the magnetic field coils\nB. To amplify the voltage signal from the current shunt\nC. To control the temperature of the magnetic field coils\nD. To measure the resistance of the magnetic field coils\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1808.03310_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the \u03b8(s) = 0 boundary condition in the diagram imply about the physical system being modeled?\n##options:\nA. A) The system has a zero rate of change at the boundary.\nB. B) The system reaches a maximum value at the boundary.\nC. C) The boundary represents an external force applied to the system.\nD. D) The system exhibits discontinuity at the boundary.\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/2111.03113_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the significance of 'R' in the sampling queue process?\n##options:\nA. A) It represents the rate of conversion from samples to the time domain.\nB. B) It denotes the resolution of the sample data.\nC. C) It signifies the repetition of the sampling process.\nD. D) It indicates the ratio of overlap to sample length.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2005.07057_10.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which method most accurately reproduces the light distribution as depicted in the target image, especially around the cauldron and the wheelbarrow?\n##options:\nA. A) RetinexNet\nB. B) NRUNet\nC. C) DRN\nD. D) MCN (Ours)\n",
+        "response": "D) MCN (Ours)",
+        "images": [
+            "arxiv/images/2104.08838_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, which predicate is not used to describe the '2 blocks environment'?\n##options:\nA. Holding\nB. Close\nC. Above\nD. In-bin",
+        "response": "A",
+        "images": [
+            "arxiv/images/2210.08412_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the median CPU time for feasible instances under the Strongly fair criterion?\n##options:\nA. 2.27\nB. 0.72\nC. 0.66\nD. 93.84\n",
+        "response": "D",
+        "images": [
+            "test_images/31edee8d-99e4-42c4-80b9-d403cf7cb861.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What type of remote sensing data are depicted in the 'Target' section of the figure for Laguna Salada, Baja California, Mexico?\n##options:\nA. A) Underwater sonar imagery\nB. B) Satellite optical imagery\nC. C) Aerial photogrammetry\nD. D) Thermal infrared imagery\n",
+        "response": "B) Satellite optical imagery",
+        "images": [
+            "arxiv/images/1909.10296_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What theoretical prediction is the experimental data being compared against in the graphs?\n##options:\nA. A) NLO: JETRAD CTEQ6.1M\nB. B) NLO: PARTON CTEQ6.1M\nC. C) LO: JETRAD CTEQ6.1M\nD. D) LO: PARTON CTEQ6.1M\n",
+        "response": "A) NLO: JETRAD CTEQ6.1M",
+        "images": [
+            "arxiv/images/hep-ex0610036_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the dashed line in the SMC process graph most likely represent?\n##options:\nA. A) The maximum value recorded during the process.\nB. B) The average or mean value of the measurements.\nC. C) The minimum value recorded during the process.\nD. D) The threshold limit that should not be exceeded.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/2201.13117_5.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the primary function of the structure labeled 'S' in figure a?\n##options:\nA. A) Drainage of excess electrons.\nB. B) Source of charge carriers.\nC. C) Dielectric barrier.\nD. D) Voltage regulator.\n",
+        "response": "B) Source of charge carriers.",
+        "images": [
+            "arxiv/images/2108.09133_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the graph, which of the following best describes the nature of the potential energy V(\u03c6) as \u03c6 increases?\n##options:\nA. V(\u03c6) remains constant as \u03c6 increases.\nB. V(\u03c6) decreases monotonically as \u03c6 increases.\nC. V(\u03c6) increases to a maximum and then decreases.\nD. V(\u03c6) has multiple local minima and maxima as \u03c6 increases.",
+        "response": "D",
+        "images": [
+            "arxiv/images/1405.3652_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What type of mechanical system could the structure in figure (a) represent?\n##options:\nA. A truss structure of a bridge\nB. The framework of a skyscraper\nC. A microchip circuit layout\nD. The crystalline structure of a mineral\n## Question 2",
+        "response": "A. A truss structure of a bridge",
+        "images": [
+            "arxiv/images/1410.4143_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the commonality in the structural configuration of the subjects in the two figures?\n##options:\nA. A) Both subjects are in a similar physical state.\nB. B) Both subjects have the same number of limbs highlighted.\nC. C) Both subjects have their joints annotated with the same color-coding scheme.\nD. D) Both subjects are positioned at the same angle.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2207.09352_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the trends shown in the graph, how does the soft gluon energy loss model with g=2.1 (dashed green line) compare to the soft gluon analytic evolution model with g=2.1 (red dashed line) at lower pT values?\n##options:\nA. The soft gluon energy loss model predicts a higher \\( R_{AA} \\) than the soft gluon analytic evolution model.\nB. Both models predict the same \\( R_{AA} \\) across all pT values.\nC. The soft gluon energy loss model predicts a lower \\( R_{AA} \\) than the soft gluon analytic evolution model.\nD. The soft gluon analytic evolution model predicts a significantly higher \\( R_{AA} \\) at pT values above 50 GeV.\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/1405.2612_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the parameter \\( \\alpha \\) represent in these figures?\n##options:\nA. The amplitude of the wave function\nB. The damping coefficient of an oscillating system\nC. A scaling parameter that affects the width of the distribution and the correlation function\nD. The frequency of the wave function",
+        "response": "C",
+        "images": [
+            "arxiv/images/1002.3185_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: According to the figure, which element has the most number of isotopes sampled?\n##options:\nA. A) \\( ^{16,18}O \\)\nB. B) \\( ^{40,48}Ca \\)\nC. C) \\( ^{58,64}Ni \\)\nD. D) \\( ^{112,124}Sn \\)\n",
+        "response": "C) \\( ^{58,64}Ni \\)",
+        "images": [
+            "arxiv/images/2006.00021_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the peak in the inset graph of \\( T_H \\) versus \\( n_b \\) indicate about the system at half filling?\n##options:\nA. The system has its highest hole mobility at half filling.\nB. The system reaches maximum Hall resistance at half filling.\nC. The system exhibits a phase transition at half filling.\nD. The system shows minimum conductivity at half filling.",
+        "response": "C",
+        "images": [
+            "arxiv/images/0810.2604_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: If the figure represents a solid of revolution, which axis serves as the axis of rotation?\n##options:\nA. The z-axis\nB. The r-axis\nC. The axis labeled 'h'\nD. The axis labeled 'r_f'\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/mtrl-th9603005_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: For which material does the conductance exhibit the least variance as the length of the nanowire changes?\n##options:\nA. Au\nB. Pt\nC. Ir\nD. Variance is equal for all materials",
+        "response": "C",
+        "images": [
+            "arxiv/images/cond-mat0303039_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which scenario shows the least variation in power at the end of the feeder in a larger PV system?\n##options:\nA. Scenario D\nB. Scenario E\nC. Scenario F\nD. Scenario G",
+        "response": "D",
+        "images": [
+            "arxiv/images/2203.04842_5.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the trend of the slope for the \"Head-on mergers\" as the \\( T_0/T_{200} \\) ratio increases from 0.25 to 2.00 in the amplitude dependence graphs?\n##options:\nA. A) The slope increases sharply.\nB. B) The slope decreases sharply.\nC. C) The slope remains approximately constant.\nD. D) There is no discernible trend in the slope.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2208.07374_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the role of \\( E_s \\) in the context of the model presented in figure (c)?\n##options:\nA. A) To combine the features extracted from different inputs into one.\nB. B) To encode the input \\( x_i \\) directly to the output \\( d_i \\).\nC. C) To provide a latent representation \\( z_s \\) that is used by \\( D_s \\) for decoding.\nD. D) To categorize the inputs \\( x_i \\) into different classes.\n",
+        "response": "C) To provide a latent representation \\( z_s \\) that is used by \\( D_s \\) for decoding.",
+        "images": [
+            "arxiv/images/1810.00222_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: How many Iton Detectors are indicated to be at the Chooz-B site according to the image?\n##options:\nA. A) One\nB. B) Two\nC. C) Three\nD. D) The image does not specify the number of detectors.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1911.03686_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, how does increasing the number of b-tags affect the number of events in the distributions?\n##options:\nA. It increases the number of events uniformly.\nB. It decreases the number of events uniformly.\nC. It increases the number of events at lower masses.\nD. It has no clear effect on the number of events.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/hep-ph0112061_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which network shows the greatest percentage increase from the 'Chimera' to the 'Metastable' state?\n##options:\nA. A) Motor and somatosensory\nB. B) Ventral temporal association\nC. C) Visual\nD. D) Medial default mode\n",
+        "response": "C) Visual",
+        "images": [
+            "arxiv/images/1807.02126_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the equations given for Baryons and Mesons, what is the significance of the quantum number \\( L_B \\) and \\( L_M \\)?\n##options:\nA. A) They represent the principal quantum number of the particles.\nB. B) They indicate the orbital angular momentum of baryons and mesons.\nC. C) They are constants that denote the mass of the baryons and mesons.\nD. D) They signify the spin of the particles.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/2112.02453_5.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the term 'homogeneous 1st order approximation' refer to in the context of this figure?\n##options:\nA. A method of agent-based simulation using link updates\nB. The solid red line representing the simplest prediction of the system's behavior\nC. The dotted black line representing an agent-based simulation\nD. The legend box explaining the figure elements",
+        "response": "B",
+        "images": [
+            "arxiv/images/1211.0449_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, which analysis method shows a color-coded variation in density from 1.1 to -0.5?\n##options:\nA. Experimental data\nB. Monte-Carlo simulation\nC. Density Functional Theory (DFT)\nD. Q-tensor analysis",
+        "response": "D",
+        "images": [
+            "arxiv/images/2303.01425_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on Figure (a), what happens to the value of \u03c9_0,\u03c0 as \u03b1_1 increases from 0.1 to 8?\n##options:\nA. It decreases consistently.\nB. It remains constant.\nC. It increases consistently.\nD. It increases, then decreases, and then increases again.\n-",
+        "response": "C",
+        "images": [
+            "arxiv/images/2301.13231_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which enzyme activity in Figure D is consistently high during growth phases b and c?\n##options:\nA. Eb\nB. Ec\nC. Ed\nD. Ee",
+        "response": "A",
+        "images": [
+            "arxiv/images/1309.4936_9.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: How many combinations of Hamming codes are there where the wall clock time is greater than 1 second but less than or equal to 3 seconds?\n##options:\nA. Eight\nB. Nine\nC. Seven\nD. Six\n",
+        "response": "B",
+        "images": [
+            "test_images/e76f6b8d-8c4d-4cdf-9f98-b1d687be884a.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In the plot labeled (d), which configuration shows the least variance after \\( g_B = 10 \\)?\n##options:\nA. 2+2\nB. 3+3\nC. Both show similar variances.\nD. It cannot be determined from the given plot.",
+        "response": "A",
+        "images": [
+            "arxiv/images/2301.04818_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which component is responsible for generating the initial laser beam in the diagram?\n##options:\nA. Function generator\nB. CCD\nC. Laser\nD. Arbitrary waveform generator\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/0801.2791_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: If you were to measure the variance of the distributions, which label would likely have the smallest variance?\n##options:\nA. VF in the Uniform distribution\nB. V1 in the Gaussian distribution\nC. VL in the Gaussian distribution\nD. VR in the Uniform distribution",
+        "response": "B",
+        "images": [
+            "arxiv/images/2102.09960_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the trend of the differential cross section for \\( K^+ \\Lambda \\) production at \\( \\cos(\\theta_{K^+}^{c.m.}) = 0.8 \\) as the energy \\( \\sqrt{s} \\) increases from 2 to 2.8 GeV according to CLAS 2010 data?\n##options:\nA. It increases monotonically.\nB. It remains constant.\nC. It decreases monotonically.\nD. It first increases, then decreases.\n-",
+        "response": "C. It decreases monotonically.",
+        "images": [
+            "arxiv/images/1106.0479_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on Panel B, what can be inferred about the relationship between the circles in the individual boxes?\n##options:\nA. A) The circles represent mutually exclusive events.\nB. B) The transition from one state to another is shown.\nC. C) There is a cyclical relationship between at least two states.\nD. D) The circles represent different species in a food web.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1602.08753_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: According to the 3D trajectory plot in (b), which of the following best describes the motion captured in the test data?\n##options:\nA. A) Linear motion in one direction.\nB. B) Periodic motion in a two-dimensional plane.\nC. C) Random motion without a clear pattern.\nD. D) Periodic motion in three-dimensional space.\n",
+        "response": "D",
+        "images": [
+            "arxiv/images/2110.01929_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the rotation curve of NGC 6503 suggest about the distribution of mass in the galaxy?\n##options:\nA. Mass is predominantly located in the central regions within 10 kpc.\nB. Mass is concentrated in the disk of the galaxy.\nC. There is a significant amount of mass in the halo region beyond the visible disk.\nD. Gas constitutes the majority of mass throughout the galaxy.",
+        "response": "C",
+        "images": [
+            "arxiv/images/1301.5371_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the trend of the data points and the \"Best fit\" line, what is the relationship between \\( \\alpha \\) and \\( N \\)?\n##options:\nA. \\( \\alpha \\) increases exponentially with \\( N \\).\nB. \\( \\alpha \\) and \\( N \\) are not related.\nC. \\( \\alpha \\) decreases as \\( N \\) increases.\nD. \\( \\alpha \\) remains constant regardless of \\( N \\).",
+        "response": "C",
+        "images": [
+            "arxiv/images/1908.10030_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In the communication layer depicted, which two individuals are connected via the shortest path without any intermediate nodes?\n##options:\nA. A) Alice and Chloe\nB. B) Bob and Dave\nC. C) Gopi and Heidi\nD. D) Feng and Ivan\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1907.08229_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the shaded region around the lines in the graph represent?\n##options:\nA. The exact values of \\( \\tilde{n}_L / \\tilde{\\mu}_B \\) at different temperatures\nB. Error margins due to measurement inaccuracies\nC. Confidence intervals of the predicted values\nD. Distinct ranges for different types of simulations",
+        "response": "C",
+        "images": [
+            "arxiv/images/2208.05398_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In the \"Phase field \u03c6\" graph, what can be inferred about the phase field values (v) based on the two given conditions, v\u2080 = 0.107 and v = 0.136?\n##options:\nA. The phase field value does not change with different initial conditions.\nB. A higher initial condition v\u2080 leads to a decrease in the phase field value.\nC. A higher initial condition v\u2080 leads to an increase in the phase field value.\nD. The phase field value is independent of the initial condition.",
+        "response": "C",
+        "images": [
+            "arxiv/images/2006.16004_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the \"PE\" in the PE Array stand for within the context of this figure?\n##options:\nA. Processing Element\nB. Potential Energy\nC. Power Efficiency\nD. Programming Environment",
+        "response": "A",
+        "images": [
+            "arxiv/images/2302.10806_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the direction of the arrows and the labels Th and Tc in the diagram, what process is being illustrated?\n##options:\nA. The flow of heat from a hot to a cold reservoir\nB. The motion of charged particles in an electric field\nC. The circulation of a fluid between two chambers\nD. The diffusion of particles from high to low concentration",
+        "response": "A",
+        "images": [
+            "arxiv/images/2112.14149_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: For a fixed value of \\( |\\mu_{\\alpha}| \\), what can be inferred about the trend of \\( \\Sigma \\alpha \\sin^2(2\\theta_{\\alpha1}) \\) with increasing \\( M_1 \\) in keV?\n##options:\nA. It shows a parabolic trend with a minimum at around \\( M_1 = 10 \\) keV.\nB. It increases linearly with increasing \\( M_1 \\).\nC. It decreases as \\( M_1 \\) increases, suggesting an inverse relationship.\nD. It remains unaffected by changes in \\( M_1 \\).\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/1204.3902_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What can be inferred about the \"monolayer viscosity dissipation\" from Figure C during the time when \"flip-flop\" is occurring?\n##options:\nA. It remains constant throughout the process.\nB. It shows a decreasing trend as time progresses.\nC. It has higher peaks compared to when no flip-flop is occurring.\nD. It is inversely related to the \"friction dissipation.\"",
+        "response": "B",
+        "images": [
+            "arxiv/images/1408.6276_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which region(s) of the complex plane contain complex numbers with a positive imaginary part and a positive real part?\n##options:\nA. Regions I and V\nB. Regions IV and VIII\nC. Regions V and IX\nD. Regions II and III",
+        "response": "C",
+        "images": [
+            "arxiv/images/2112.09412_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the 'Bilinear Sampler' component likely do in this architecture?\n##options:\nA. It samples points bilaterally for edge detection in images.\nB. It is responsible for upsampling the image to a higher resolution.\nC. It applies a bilinear interpolation method to sample the feature maps.\nD. It performs a non-linear down-sampling of the depth information.",
+        "response": "C",
+        "images": [
+            "arxiv/images/2106.02994_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, how do the \\( \\delta m1 \\) values for \\( N=1024 \\) compare to those for \\( N=512 \\) in the graph labeled (e)?\n##options:\nA. \\( N=1024 \\) has consistently higher \\( \\delta m1 \\) values than \\( N=512 \\) across all \\( T \\).\nB. \\( N=1024 \\) and \\( N=512 \\) have similar \\( \\delta m1 \\) values across all \\( T \\).\nC. \\( N=1024 \\) has consistently lower \\( \\delta m1 \\) values than \\( N=512 \\) across all \\( T \\).\nD. \\( N=1024 \\) has higher \\( \\delta m1 \\) values at lower \\( T \\) but lower values at higher \\( T \\) compared to \\( N=512 \\).",
+        "response": "C",
+        "images": [
+            "arxiv/images/1304.4982_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the data distribution in the figure, which statement best describes the relationship between \u03c1Level 2 / \u03c1Level 1 and \u03c1Level 3 / \u03c1Level 1?\n##options:\nA. The ratio of \u03c1Level 3 / \u03c1Level 1 increases linearly as the ratio of \u03c1Level 2 / \u03c1Level 1 increases.\nB. There is no clear relationship between the ratios of \u03c1Level 3 / \u03c1Level 1 and \u03c1Level 2 / \u03c1Level 1.\nC. The ratio of \u03c1Level 3 / \u03c1Level 1 decreases as the ratio of \u03c1Level 2 / \u03c1Level 1 increases.\nD. The ratio of \u03c1Level 2 / \u03c1Level 1 is always double the ratio of \u03c1Level 3 / \u03c1Level 1.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2302.10338_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What role does the parameter \u03b81 play in determining market preferences as depicted in the figure?\n##options:\nA. \u03b81 determines the stability of the market preference, with higher \u03b81 favoring market M3.\nB. \u03b81 has no effect on market preferences as it is independent of the peak positions.\nC. Lower values of \u03b81 correspond to a preference for market M1, as seen by the large peak positions.\nD. \u03b81 is directly proportional to the preference for market M2, with small peak positions indicating this preference.",
+        "response": "C",
+        "images": [
+            "arxiv/images/2012.04103_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What trend is depicted by the red shaded area in Figure (a) as the normalized distance \\( d_{\\alpha\\beta}/D \\) increases?\n##options:\nA. A consistent increase in \\( T_{\\alpha} \\)\nB. A peak followed by a decrease in \\( T_{\\alpha} \\)\nC. A consistent decrease in \\( T_{\\alpha} \\)\nD. No significant change in \\( T_{\\alpha} \\)\n## Figure (e)",
+        "response": "B",
+        "images": [
+            "arxiv/images/2211.07412_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which of the following adaptation methods, according to the figure, requires direct interaction with the task-specific dataset for model adjustment?\n##options:\nA. A) Pre-trained Model without any adjustment\nB. B) Fine-tuning\nC. C) Prompt-tuning\nD. D) Evaluation without tuning\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/2112.03204_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which process demonstrates the principle of conservation of charge?\n##options:\nA. Process (a), where \u03c3+ changes to \u03c3\u2212 through \u0108\nB. Process (b), where \u03c3\u2212 remains \u03c3\u2212 after interaction with \u0108\nC. Process (c), where both \u03c3+ and \u03c3\u2212 are inverted after passing through \u0108\nD. None of the processes, as they all violate the conservation of charge",
+        "response": "B",
+        "images": [
+            "arxiv/images/1904.01314_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: If the red regions in the figures indicate a site of significant biochemical activity, such as an active site or a binding site, which figure most likely represents a protein with multiple active or binding sites?\n##options:\nA. Figure B\nB. Figure D\nC. Figure G\nD. Figure H\nE. Figure I",
+        "response": "D. Figure H",
+        "images": [
+            "arxiv/images/1211.5520_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In the line graphs, what does the parameter \u03b1 represent?\n##options:\nA. Learning rate\nB. Regularization strength\nC. Temperature parameter\nD. Momentum",
+        "response": "C",
+        "images": [
+            "arxiv/images/1905.06922_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: If the trend continues, what would be the approximate value of \\( D \\) when \\( y \\) is 6?\n##options:\nA. 7\nB. 7.5\nC. 8\nD. 8.5",
+        "response": "C",
+        "images": [
+            "arxiv/images/2306.08342_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which model achieved the highest average accuracy for binary classification under the Entity Identity category?\n##options:\nA. GCN (Full Tree) with 83.6%.\nB. MrGCN(CM) with 93.5%.\nC. MrGCN(HM) with 94.1%\nD. AGGCN with 85.6%.\n",
+        "response": "C",
+        "images": [
+            "test_images/d619379f-d3a2-41fe-b223-91570f46c39a.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What can be inferred about the simulation's stability in the right figure?\n##options:\nA. The simulation is more stable for mx than for my or mz.\nB. The simulation is more stable for mz than for mx or my.\nC. The simulation is equally stable for mx, my, and mz.\nD. The stability of the simulation cannot be determined from the figure.\n",
+        "response": "B. The simulation is more stable for mz than for mx or my.",
+        "images": [
+            "arxiv/images/1904.04215_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the contour patterns, which object appears to be the strongest infrared source?\n##options:\nA. XZ Tau\nB. HL Tau\nC. L1551 NE\nD. L1551 IRS 5\n",
+        "response": "D",
+        "images": [
+            "arxiv/images/1607.07245_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the main graph in the figure, what happens to the value of \\( R[g_{NS}] \\) as \\( g_{NS} \\) increases from 0.001 to 1?\n##options:\nA. A) It increases at a constant rate.\nB. B) It remains constant.\nC. C) It decreases at a constant rate.\nD. D) It first decreases, then increases.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/1106.0980_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which pair of parameters (b, \u03b8) results in the symmetry observed in panel (c)?\n##options:\nA. A) b=0.75, \u03b8=\u03c0/6\nB. B) b=0.8, \u03b8=arctan(3/4)\nC. C) b=1.1, \u03b8=\u03c0/6\nD. D) b=1.1, \u03b8=arctan(3/4)\n",
+        "response": "B) b=0.8, \u03b8=arctan(3/4)",
+        "images": [
+            "arxiv/images/2306.15358_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: How does the presence of interference affect the variability of the vote percentage for candidate B?\n##options:\nA. It reduces the variability of the vote percentage for candidate B.\nB. It increases the variability of the vote percentage for candidate B.\nC. It has no effect on the variability of the vote percentage for candidate B.\nD. It initially increases variability and then reduces it.",
+        "response": "B",
+        "images": [
+            "arxiv/images/1908.02793_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In the model's architecture, what is the intended output of processing through Functional Modules?\n##options:\nA. To create a densely connected network.\nB. To produce a not-densely connected network for subsequent analysis.\nC. To feed into a Co-expression graph directly.\nD. To generate Multi-omics data for the PPI network.",
+        "response": "B",
+        "images": [
+            "arxiv/images/2207.00812_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What mathematical concept is visually represented by the progression of the images in each row?\n##options:\nA. A) The multiplication of integers\nB. B) The addition of vectors\nC. C) The division of polynomials\nD. D) The iteration of a sinusoidal function\n",
+        "response": "D) The iteration of a sinusoidal function",
+        "images": [
+            "arxiv/images/2201.06587_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the diagrams, how does a higher \\( \\Phi_{lat} \\) value affect the lateral displacement in myriapods?\n##options:\nA. A) It increases the lateral displacement.\nB. B) It decreases the lateral displacement.\nC. C) It does not affect the lateral displacement.\nD. D) It makes the lateral displacement unpredictable.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/2112.00662_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Comparing graph (A) and graph (B), how does the peak cross-section value change with an increase in neutrino energy from 1 GeV to 1.5 GeV?\n##options:\nA. A) It increases significantly.\nB. B) It decreases slightly.\nC. C) It remains approximately the same.\nD. D) It decreases significantly.\n",
+        "response": "A) It increases significantly.",
+        "images": [
+            "arxiv/images/1701.01718_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the graph, how does the observed quantity \\( \\Phi_{obs} \\) change with \\( \\Phi_{Rn=ct} \\)?\n##options:\nA. It decreases exponentially.\nB. It remains constant.\nC. It increases linearly.\nD. It shows no discernible pattern.",
+        "response": "C",
+        "images": [
+            "arxiv/images/1410.0875_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which method achieved the highest NDCG@10 score for the \"JAC + OKAPI\" combination?\n##options:\nA. FG\nB. RkGraph\nC. RecKNNGraphCCs\nD. CorGraph\n",
+        "response": "B",
+        "images": [
+            "test_images/0c538573-fb67-4a01-8b89-bac9b5f05332.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the general trend of \\(\\Delta R^2_g\\) as the value of \\(p\\) increases from \\(10^{-4}\\) to \\(10^0\\)?\n##options:\nA. A) \\(\\Delta R^2_g\\) consistently increases.\nB. B) \\(\\Delta R^2_g\\) consistently decreases.\nC. C) \\(\\Delta R^2_g\\) shows no significant trend and remains constant.\nD. D) \\(\\Delta R^2_g\\) initially decreases, then levels off as \\(p\\) approaches \\(10^0\\).\n",
+        "response": "D",
+        "images": [
+            "arxiv/images/2110.11049_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: In the diagram, where are the contractile smooth muscle cells (SMCs) located?\n##options:\nA. In the INTIMA layer\nB. In the MEDIA layer\nC. Adjacent to the lumen\nD. Mixed with the platelets\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1908.02889_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the spring symbol in the diagram most likely represent?\n##options:\nA. Physical springs used in the mechanism\nB. Data or signal flow between components\nC. Elastic collision between particles\nD. The dynamic interaction between sender and receiver\n",
+        "response": "D",
+        "images": [
+            "arxiv/images/1809.10751_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the purpose of the captions in each image?\n##options:\nA. To provide operating instructions for the blender.\nB. To offer a critique of the blender's performance.\nC. To suggest recipes for the blender.\nD. To compare the two blenders.\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/2111.01300_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which component in the figure is responsible for combining the low-resolution input with the upscaled features?\n##options:\nA. SDC Block\nB. Concatenate\nC. EDSR Block\nD. UpSample Block",
+        "response": "B",
+        "images": [
+            "arxiv/images/2305.19063_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, which quantization parameter setting maintains a recall@R above 0.5 across all quantization errors?\n##options:\nA. (1,32)\nB. (10,64)\nC. (100,64)\nD. (100,128)",
+        "response": "C",
+        "images": [
+            "arxiv/images/1712.00955_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the visualization of activation values before and after applying \"SmoothQuant\", what can be inferred about the effect of this technique on the data?\n##options:\nA. It increases the range of activation values\nB. It reduces the variability of activation values across channels and tokens\nC. It creates more distinct peaks in activation values\nD. It has no significant effect on the activation values\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/2211.10438_6.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, what does \\( \\tilde{\\nabla}_l \\) symbolize in the context of neural networks?\n##options:\nA. The input feature vector\nB. The gradient of the loss with respect to the neuron's output\nC. The output predictions of the neural network\nD. The regularization term added to the loss function",
+        "response": "B",
+        "images": [
+            "arxiv/images/2003.01513_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the trend observed in the first graph as the mass \\( m_X \\) increases from 50 MeV to 1000 MeV?\n##options:\nA. A) The value of \\( \\varepsilon \\) increases exponentially.\nB. B) The value of \\( \\varepsilon \\) remains constant.\nC. C) The value of \\( \\varepsilon \\) decreases exponentially.\nD. D) The value of \\( \\varepsilon \\) shows an oscillatory behavior.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2211.05787_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the diagram in part (b), what is the relationship between the input sentences \"Good morning, may I help you?\" and \"What would you want, coffee or tea?\"\n##options:\nA. A) They are semantically equivalent and lead to different outputs.\nB. B) They have different semantics leading to the same output.\nC. C) They are unrelated and produce unrelated outputs.\nD. D) They are semantically equivalent and produce the same output.\n",
+        "response": "D",
+        "images": [
+            "arxiv/images/2212.00231_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the likely purpose of the horizontal red lines in the lower plot?\n##options:\nA. To indicate the mean value of the data.\nB. To mark the maximum and minimum values of the data.\nC. To serve as reference lines for significant thresholds.\nD. To represent error margins of the data.",
+        "response": "C. To serve as reference lines for significant thresholds.",
+        "images": [
+            "arxiv/images/1412.0607_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What can be inferred from the weight matrix in panel B after learning?\n##options:\nA. A uniform distribution of synaptic weights\nB. Randomly distributed synaptic weights\nC. Clustered synaptic weight distribution indicating learned patterns\nD. Synaptic weights only between adjacent neurons",
+        "response": "C",
+        "images": [
+            "arxiv/images/1907.08801_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the vector 'r' in the figure most likely represent?\n##options:\nA. A) The radius of the circle C\nB. B) The distance from circle C to point P\nC. C) The force vector acting on point P\nD. D) The velocity vector at point P\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/1911.11021_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the \"CW Audio Attack\" option likely refer to in the context of this figure?\n##options:\nA. A) A method for compressing audio files\nB. B) A type of cyberattack targeting audio files\nC. C) A feature for enhancing audio quality\nD. D) A codec for audio playback\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1805.11852_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Among the listed techniques, which has the highest $\\mathcal{M}$ value for PCSD?\n##options:\nA. SiT with 21.11\nB. Transformer-based with 19.77\nC. Dual Model with 11.14\nD. {\\toolname} with 23.70\n",
+        "response": "D",
+        "images": [
+            "test_images/7d352069-e0cf-40f4-9a53-d88ccbf780c9.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which of the following \u03b5 values shows the greatest change in \u03b7\u2082 as \u03c4 increases from 0 to 0.3 in Figure C?\n##options:\nA. A) \u03b5 = 200\nB. B) \u03b5 = 300\nC. C) \u03b5 = 400\nD. D) \u03b5 = 600\n",
+        "response": "A) \u03b5 = 200",
+        "images": [
+            "arxiv/images/2110.14082_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: At which approximate point does the radius of the object seem to stabilize after the initial decrease?\n##options:\nA. A) At 0.5 solar masses.\nB. B) At 1 solar mass.\nC. C) At 2 solar masses.\nD. D) The radius does not stabilize after the initial decrease.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/1301.5965_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the graph, what can be said about the confidence interval for the data points at the highest values of sqrt(smev)?\n##options:\nA. A) The confidence interval becomes narrower as the value of sqrt(smev) increases.\nB. B) The confidence interval becomes wider as the value of sqrt(smev) increases.\nC. C) The confidence interval remains the same throughout the values of sqrt(smev).\nD. D) The confidence interval is not shown for the highest values of sqrt(smev).\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/0804.1142_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the graph represent in the context of field theory?\n##options:\nA. The energy levels of an electron in a magnetic field.\nB. The potential energy of a particle in a harmonic oscillator.\nC. The potential of a scalar field in spontaneous symmetry breaking.\nD. The distribution of charge in an electric field.",
+        "response": "C",
+        "images": [
+            "arxiv/images/1205.3365_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What can be inferred about the efficiency \\( \\eta \\) and the fidelity \\( \\mathcal{F} \\) for \\( G_0 \\) and \\( G_1 \\) in Figure a?\n##options:\nA. \\( G_0 \\) has higher efficiency and fidelity than \\( G_1 \\).\nB. \\( G_1 \\) has higher efficiency but lower fidelity than \\( G_0 \\).\nC. \\( G_0 \\) and \\( G_1 \\) have the same efficiency and fidelity.\nD. \\( G_1 \\) has higher efficiency and fidelity than \\( G_0 \\).",
+        "response": "D",
+        "images": [
+            "arxiv/images/1812.11441_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the scatter of data points, what is a likely characteristic of the dataset used to plot true size against \\( S_i \\)?\n##options:\nA. There is a high level of measurement precision for smaller true sizes.\nB. The dataset contains a few outliers that deviate significantly from the main trend.\nC. The relationship between true size and \\( S_i \\) is linear.\nD. The true size has a uniform distribution across all \\( S_i \\) values.",
+        "response": "A",
+        "images": [
+            "arxiv/images/1902.08201_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, what can be inferred about VRE curtailment?\n##options:\nA. A) VRE curtailment is constant throughout the dispatch intervals.\nB. B) VRE curtailment occurs when the net demand is at its peak.\nC. C) VRE curtailment happens when there is an excess of supply over demand.\nD. D) There is no VRE curtailment illustrated in the figure.\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2106.14351_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is the Recall@4 (R@4) for the method PA-AVSL?\n##options:\nA. 92.9\nB. 97.0\nC. 96.6\nD. 95.8\n",
+        "response": "B",
+        "images": [
+            "test_images/830c3202-9953-40aa-9f54-c32f7840145d.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: At which angle do the SPD methods at 5 degrees and 25 degrees have approximately the same cumulative ratio?\n##options:\nA. 1 degree\nB. 10 degrees\nC. 50 degrees\nD. 100 degrees\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1507.03850_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: According to the flowchart, what happens if the process has converged?\n##options:\nA. The operator with the largest gradient is selected.\nB. The gradients are measured again.\nC. The wavefunction is initialized.\nD. The process is complete.",
+        "response": "D",
+        "images": [
+            "arxiv/images/1812.11173_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the contour lines presented in the figure, how do the intensities of the two fields compare?\n##options:\nA. A) The blue field has a higher intensity as it has more contour lines closer together.\nB. B) The red field has a higher intensity as it has more contour lines closer together.\nC. C) Both fields have the same intensity because they cover the same area.\nD. D) It's not possible to determine the intensity from this type of plot.\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1709.02923_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: If the input to the first flip-flop (at RO1) is a binary 1, what will be the state of out0 after two clock cycles?\n##options:\nA. 0\nB. 1\nC. Undefined\nD. It will remain the same as the initial state of out0 before the two clock cycles.",
+        "response": "B",
+        "images": [
+            "arxiv/images/1605.03290_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which simulator produced the smallest trace file size for the 200 node network size?\n##options:\nA. Adyton\nB. OMNeT++.\nC. ONE.\nD. ns-3.\n",
+        "response": "A",
+        "images": [
+            "test_images/5060c1ef-b918-4dfa-a052-d92640498aac.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: For a 15x15 grid size, how many units are in the Attacker(Actor and Critic) neural network architecture?\n##options:\nA. 64 units\nB. 32 units\nC. 256 units\nD. 128 units\n",
+        "response": "C",
+        "images": [
+            "test_images/bcf2087f-f87a-46dd-94da-b016b98a9caa.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which of the following best describes the relationship between \\( W_+(\\phi) \\) and \\( W_-(\\phi) \\) shown in the figure?\n##options:\nA. A) \\( W_+(\\phi) \\) and \\( W_-(\\phi) \\) intersect at \\( \\phi = 0 \\)\nB. B) \\( W_+(\\phi) \\) is always greater than \\( W_-(\\phi) \\) for all values of \\( \\phi \\)\nC. C) \\( W_+(\\phi) \\) represents the kinetic energy while \\( W_-(\\phi) \\) represents potential energy\nD. D) \\( W_+(\\phi) \\) and \\( W_-(\\phi) \\) are symmetrical about the vertical axis\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/2201.08380_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What can be inferred about the trajectories related to the blue square in the graph?\n##options:\nA. The blue square signifies where all trajectories converge.\nB. It represents the most frequent final position of the system after simulations.\nC. It is an intermediate checkpoint that all trajectories pass through.\nD. The blue square is a random anomaly unrelated to the system's trajectory.",
+        "response": "B",
+        "images": [
+            "arxiv/images/2005.06191_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which data set has the broadest range of \\( \\beta_{M1} \\) values for a given \\( \\alpha_{E1} \\)?\n##options:\nA. BxPT [3]\nB. HBxPT [42]\nC. HDPV [48,49]\nD. PDG [50]\n",
+        "response": "A",
+        "images": [
+            "arxiv/images/2110.15691_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Based on the figure, what does the black arrow labeled \"1\" signify in the context of the energy level diagram?\n##options:\nA. A) Absorption of a photon\nB. B) Emission of a photon\nC. C) Non-radiative transition\nD. D) Conservation of energy\n",
+        "response": "B",
+        "images": [
+            "arxiv/images/1612.08459_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What is indicated by the two lines \"shap\" and \"lime\" in the Glazing Area Distribution graph?\n##options:\nA. They represent two variables in a linear regression model.\nB. They are two prediction models' confidence intervals.\nC. They are two different machine learning model interpretations.\nD. They represent the maximum and minimum values of the glazing area.",
+        "response": "C",
+        "images": [
+            "arxiv/images/2304.08499_0.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the pattern of arrows on the bars in the figure most likely represent?\n##options:\nA. Variability in control amplitude over time\nB. Directional trends in control amplitude over time\nC. Errors in data collection over time\nD. Constant control amplitude with periodic spikes\n-",
+        "response": "B",
+        "images": [
+            "arxiv/images/2011.00028_2.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: What does the point labeled \"E\" most likely represent in the context of quantum communication?\n##options:\nA. The maximal classical consumption rate with no quantum communication.\nB. The point where the entanglement consumption rate equals the classical consumption rate.\nC. The optimal trade-off between quantum communication rate and entanglement consumption rate.\nD. The starting point of quantum communication with zero entanglement consumption.",
+        "response": "C",
+        "images": [
+            "arxiv/images/0901.3038_1.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which process directly feeds into the Optimization step in the Implementation Process?\n##options:\nA. A) Data Collection\nB. B) Data Preprocessing\nC. C) Testing\nD. D) Generation\n",
+        "response": "C",
+        "images": [
+            "arxiv/images/2106.07221_3.jpg"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Which optimisation achieved the greatest speed-up for the SSSP benchmark on Friendster when using 32 threads?\n##options:\nA. Externalised structure\nB. Hybrid combiner\nC. Dynamic scheduling\nD. Final\n",
+        "response": "B",
+        "images": [
+            "test_images/7f9f571b-54ec-4776-bc2d-65364fe53884.png"
+        ]
+    },
+    {
+        "query": "You are an expert in diagram comprehension, combining questions and images to answer.\n##question: Identifying the odd one out, which furniture does not align with the mid-century modern aesthetic?\n##options:\nA. The orange egg-shaped chair with a swivel base.\nB. The wooden chair with cream-colored padding and a metal frame.\nC. The antique velvet armchair with wooden details and plush seating.\nD. The low-profile red loveseat with a metallic frame.",
+        "response": "C",
+        "images": [
+            "arxiv/images/2004.07268_3.jpg"
+        ]
+    }
+]
